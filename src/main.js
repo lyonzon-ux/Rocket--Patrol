@@ -1,3 +1,4 @@
+console.log("hello world")
 let config = {
     type: Phaser.CANVAS,
     width: 640,
